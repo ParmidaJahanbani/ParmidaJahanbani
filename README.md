@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Full-stack developer | 📱 Mobile app developer | 🎮 Game developer | 🧪 QA tester
 ------------------------------------------------------------------------------------
 
-🌍 Exploring the digital universe, one commit at a time. 
-🔧 I love building things with code and ensuring their quality. 
-🌟 Passionate about open source and community-driven projects. 
-📚 Always learning and eager to share knowledge. 
+🌍 Exploring the digital universe, one commit at a time. \n
+🔧 I love building things with code and ensuring their quality. \n
+🌟 Passionate about open source and community-driven projects. \n
+📚 Always learning and eager to share knowledge. \n
 🤝 Explore my repositories and let's collaborate on something amazing!
 
 * 🌍  I'm based in Canada
